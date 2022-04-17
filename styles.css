@@ -1,8 +1,16 @@
-*title {
-    color:aquamarine
+* {
+    background-color: #121212;
 }
 
 img.maggieMainLogo {
     height: auto;
     width: 500px;
+    display: block;
+    margin: 0 auto;
+}
+
+h1 {
+    color: #e0e0e0;
+    font-family: Sans-serif;
+    font-size: 50px;
 }
